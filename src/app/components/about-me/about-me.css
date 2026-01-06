@@ -1,0 +1,54 @@
+.about-container{
+    background-color: #005187;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 150px;
+    color: #fff;
+    padding: 50px;
+    font-weight: lighter;
+    margin-top: 30px;
+}
+
+.text-about{
+    width: 572px;
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+}
+
+.text-about h5{
+    font-weight: bold;
+    text-align: center;
+}
+
+.text-about span{
+    font-weight: bold;
+}
+
+.text-about button{
+    background-color: #C23D53;
+    border-radius: 20px;
+    border: none;
+    width: 183px;
+    font-weight: bold;
+    color: #fff;
+    display: flex;
+    padding: 10px;
+    justify-content: center;
+    box-shadow: 0 5px 7px rgba(0, 0, 0, 0.25);
+    align-self: center;
+}
+
+button img{
+    /* width: 10px;
+    height: 10px; */
+    align-self: center;
+    margin-right: 10px;
+}
+
+.line{
+    background-color: #C23D53;
+    height: 57px;
+    width: 100%;
+}
