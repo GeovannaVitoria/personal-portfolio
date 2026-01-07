@@ -5,6 +5,7 @@ import { Header } from './components/header/header';
 import { Projects } from './components/projects/projects';
 import { AboutMe } from './components/about-me/about-me';
 import { Servicos } from './components/servicos/servicos';
+import { Footer } from './components/footer/footer';
 
 @Component({
   selector: 'app-root',
@@ -13,7 +14,8 @@ import { Servicos } from './components/servicos/servicos';
     Header,
     Projects,
     AboutMe,
-    Servicos
+    Servicos,
+    Footer
   ],
   templateUrl: './app.html',
   styleUrl: './app.css'
