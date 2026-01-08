@@ -1,14 +1,5 @@
-.projects-section {
-    padding: 40px;
-}
-
-.projects-section h3 {
-    text-align: center;
-}
-
 .card-container {
     padding: 30px 90px 10px;
-    gap: 40px;
 }
 
 .card-project {
@@ -22,16 +13,6 @@
     border-radius: 30px 30px 0 0;
 }
 
-.description-card {
-    padding: 10px;
-    display: flex;
-    flex-direction: column;
-}
-
-.description-card h5 {
-    font-weight: bold;
-}
-
 .description-card p {
     padding: 15px 0px;
 }
@@ -39,7 +20,6 @@
 .description-card button {
     background-color: #005187;
     color: #fff;
-    border: none;
     border-radius: 20px;
     width: 162px;
     align-self: center;
@@ -47,23 +27,14 @@
 
 .description-card a {
     color: #000;
-    align-self: center;
-    margin-top: 10px;
-    /* text-decoration: none; */
     text-decoration-color: #C23D53;
-}
-
-.subtitle-card {
-    display: flex;
 }
 
 .subtitle-card span {
     font-size: 14px;
-    margin-left: 5px;
 }
 
 .subtitle-card img {
     width: 10px;
     height: 10px;
-    align-self: center;
 }
