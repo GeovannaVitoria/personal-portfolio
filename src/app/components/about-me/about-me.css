@@ -1,0 +1,70 @@
+.about-container {
+    background-color: #005187;
+    color: #fff;
+}
+
+.text-about {
+    width: 572px;
+    gap: 24px;
+    margin-left: 150px;
+}
+
+.text-about span {
+    font-weight: bold;
+}
+
+.text-about button {
+    border-radius: 20px;
+}
+
+.btn-modal {
+    filter: brightness(0) invert(1);
+    width: 18px;
+    height: 18px;
+align-items: center;    
+}
+
+.card-cursos {
+    border: 0.5px solid #313131;
+    border-radius: 5px;
+}
+
+.card-cursos img {
+    width: 60px;
+    height: 60px;
+    border-radius: 7px;
+}
+
+.text-curso {
+    width: 200px;
+}
+
+.box-tecnologies {
+    color: #fff;
+    border-radius: 50px;
+    width: 80px;
+    height: 26px;
+}
+
+.box-tecnologies[data-tech="git"] {
+    background-color: #CA38CD;
+}
+
+.box-tecnologies[data-tech="si"] {
+    background-color: #FF8336;
+}
+
+.modal-footer img {
+    width: 15px;
+    height: 15px;
+}
+
+.modal-footer span {
+    font-size: 15px;
+}
+
+.line {
+    background-color: #C23D53;
+    height: 57px;
+    width: 100%;
+}

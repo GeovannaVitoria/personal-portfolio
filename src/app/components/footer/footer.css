@@ -1,0 +1,32 @@
+.background-footer{
+    background-color: #005187;
+    color: #fff;
+}
+
+.card-name span{
+    font-weight: lighter;
+}
+
+.navbar-brand {
+    color: #fff;
+    font-weight: 700;
+    font-size: 28px;
+    margin-right: 1.5px;
+}
+
+.box-radius {
+    background-color: #C23D53;
+    height: 8px;
+    width: 8px;
+    border-radius: 100%;
+    margin-bottom: 10.5px;
+}
+
+.social-icons img{
+    width: 25px;
+    height: 25px;
+}
+
+.copyright{
+    margin-left: 10px;
+}

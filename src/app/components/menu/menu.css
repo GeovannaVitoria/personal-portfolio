@@ -1,0 +1,35 @@
+.navbar {
+    background-color: #84BCF4;
+}
+
+.navbar-brand {
+    color: #fff;
+    font-weight: 700;
+    font-size: 28px;
+    margin-right: 1.5px;
+}
+
+.box-radius {
+    background-color: #C23D53;
+    height: 8px;
+    width: 8px;
+    border-radius: 100%;
+    margin-bottom: 16.5px;
+}
+
+.nav-link {
+    color: #005187;
+    font-weight: 700;
+}
+
+.btn-menu {
+    font-weight: 600;
+    border-radius: 20px;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.25);
+    padding: 12px;
+}
+
+.btn-menu a{
+    color: #fff;
+    text-decoration: none;
+}

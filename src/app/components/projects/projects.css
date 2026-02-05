@@ -1,0 +1,45 @@
+.card-container {
+    padding: 30px 90px 10px;
+}
+
+.card-project {
+    width: 320px;
+    border-radius: 30px;
+}
+
+.card-project img {
+    width: 100%;
+    height: 195px;
+    border-radius: 30px 30px 0 0;
+}
+
+.description-card p {
+    padding: 15px 0px;
+}
+
+.btn {
+    background-color: #005187;
+    border-radius: 20px;
+    width: 162px;
+    align-self: center;
+    color: #fff;
+    text-decoration: none;
+}
+
+.btn:hover{
+    background-color: #0161a1;
+}
+
+.repoLinks {
+    color: #000;
+    text-decoration-color: #C23D53;
+}
+
+.subtitle-card span {
+    font-size: 14px;
+}
+
+.subtitle-card img {
+    width: 10px;
+    height: 10px;
+}
